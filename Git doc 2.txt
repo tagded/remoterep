@@ -1,1 +1,2 @@
 Git doc 2
+The edit is successfull!!
