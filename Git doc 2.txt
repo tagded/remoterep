@@ -1,2 +1,3 @@
 Git doc 2
 The edit is successfull!!
+This is third edit...
